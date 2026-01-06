@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skvoretss)
+[![telegram](https://img.shields.io/badge/telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skvoretss)
 <!--
 **skvoretss/skvoretss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<!--
+<p align="center">
+<img src="https://github-readme-stats-skvoretss-projects.vercel.app/api?username=skvoretss&show_icons=true&theme=merko&border_color=599200">
 -->
