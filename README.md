@@ -16,9 +16,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <!--
 <p align="center">
-<img src="https://github-readme-stats-skvoretss-projects.vercel.app/api?username=skvoretss&show_icons=true&theme=merko&border_color=599200">
+<img src="https://github-readme-stats-skvoretss-projects.vercel.app/api?username=skvoretss&show_icons=true&theme=blueberry&border_color=120A8F&text_color=AFDAFC&icon_color=1E90FF&bg_color=1A153F">
+
+<p align="center">
+<img src="https://github-readme-stats-skvoretss-projects.vercel.app/api?username=skvoretss&show_icons=true&theme=dark&border_color=3F888F&text_color=AFDAFC&icon_color=1FCECB&bg_color=002137">
+
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-skvoretss-projects.vercel.app/api?username=skvoretss&show_icons=true&theme=blueberry&border_color=120A8F&text_color=AFDAFC&icon_color=1E90FF&bg_color=1A153F" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-skvoretss-projects.vercel.app/api/top-langs?username=skvoretss&layout=compact&langs_count=8&card_width=320&theme=blueberry&border_color=120A8F&text_color=AFDAFC&icon_color=1E90FF&bg_color=1A153F" />
+</a>
