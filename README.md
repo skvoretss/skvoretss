@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/skvoretss/skvoretss/blob/main/images/greeting.gif" height="200" width="600">
+<img src="https://github.com/skvoretss/skvoretss/blob/main/images/greeting.gif" height="100" width="400">
 
 ## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skvoretss)
