@@ -1,7 +1,8 @@
 <!-- Feel free to use this README as an inspiration for your own profiles, links to the used repos are in the comments. If this repo was helpful, leave a star, fellow ;) -->
 
 <p align="center"> <!-- Orig repo: https://github.com/leviarista/github-profile-header-generator-->
-  <img src="https://github.com/skvoretss/skvoretss/blob/main/images/greeting_dark.png" alt="greeting_dark">
+  <img src="https://github.com/skvoretss/skvoretss/blob/main/images/greeting_dark.png#gh-dark-mode-only" alt="greeting_dark">
+  <img src="https://github.com/skvoretss/skvoretss/blob/main/images/greeting_light.png#gh-light-mode-only" alt="greeting_light">
 </p>
 
 <h2 align="center">Who am I?</h2>
@@ -21,17 +22,35 @@
 
 <h2 align="center">Stats</h2>
 <p align="center">
-<a href="https://github.com/skvoretss/github-readme-stats"> <!-- Orig repo: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Orig repo: https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github.com/skvoretss/github-readme-stats#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats-skvoretss-projects.vercel.app/api?username=skvoretss&show_icons=true&border_color=28335c&text_color=AFDAFC&icon_color=1E90FF&bg_color=070917&title_color=71aaf5" />
 </a>
-<a href="https://github.com/skvoretss/convoychat"> <!-- Orig repo: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Colors: border_color=28335c&text_color=AFDAFC&icon_color=1E90FF&bg_color=070917&title_color=71aaf5 -->
+<a href="https://github.com/skvoretss/github-readme-stats#gh-light-mode-only"> 
+  <img height=200 align="center" src="https://github-readme-stats-skvoretss-projects.vercel.app/api?username=skvoretss&show_icons=true&border_color=71aaf5&text_color=070917&icon_color=5260ab&bg_color=AFDAFC&title_color=28335c" />
+</a>  
+<!-- Orig repo: https://github.com/anuraghazra/github-readme-stats -->  
+<a href="https://github.com/skvoretss/convoychat#gh-dark-mode-only"> <!-- Orig repo: https://github.com/anuraghazra/github-readme-stats -->
   <img height=200 align="center" src="https://github-readme-stats-skvoretss-projects.vercel.app/api/top-langs?username=skvoretss&layout=compact&langs_count=8&border_color=28335c&text_color=AFDAFC&icon_color=1E90FF&bg_color=070917&title_color=71aaf5" />
 </a>
-<a href="https://github.com/skvoretss/convoychat"> <!-- Orig repo: https://github.com/DenverCoder1/github-readme-streak-stats -->
+<a href="https://github.com/skvoretss/convoychat#gh-light-mode-only"> <!-- Orig repo: https://github.com/anuraghazra/github-readme-stats -->
+  <img height=200 align="center" src="https://github-readme-stats-skvoretss-projects.vercel.app/api/top-langs?username=skvoretss&layout=compact&langs_count=8&border_color=71aaf5&text_color=070917&icon_color=5260ab&bg_color=AFDAFC&title_color=28335c" />
+</a>
+<!-- Orig repo: https://github.com/DenverCoder1/github-readme-streak-stats -->
+<a href="https://github.com/skvoretss/convoychat#gh-dark-mode-only"> 
   <img height=200 align="center" src="https://github-readme-streak-stats-skvoretss-projects.vercel.app/?user=skvoretss&background=070917&border=28335c&stroke=71aaf5&ring=AFDAFC&fire=AFDAFC&currStreakLabel=AFDAFC&currStreakNum=71aaf5&sideNums=71aaf5&sideLabels=1E90FF&dates=5260ab" />
 </a>
-<a href="https://leetcard.jacoblin.cool/skvoretss1"> <!-- Orig repo: https://github.com/JacobLinCool/LeetCode-Stats-Card-->
+<a href="https://github.com/skvoretss/convoychat#gh-light-mode-only"> 
+  <img height=200 align="center" src="https://github-readme-streak-stats-skvoretss-projects.vercel.app/?user=skvoretss&background=AFDAFC&border=71aaf5&stroke=5260ab&ring=070917&fire=070917&currStreakLabel=070917&currStreakNum=28335c&sideNums=28335c&sideLabels=28335c&dates=5260ab" />
+</a>
+
+<!-- Orig repo: https://github.com/JacobLinCool/LeetCode-Stats-Card-->
+<a href="https://leetcard.jacoblin.cool/skvoretss1#gh-dark-mode-only"> 
   <img height=200 align="center" src="https://leetcard.jacoblin.cool/skvoretss1?colors=070917,28335c,71aaf5,AFDAFC,AFDAFC" />
+</a>
+<a href="https://leetcard.jacoblin.cool/skvoretss1#gh-light-mode-only"> 
+  <img height=200 align="center" src="https://leetcard.jacoblin.cool/skvoretss1?colors=AFDAFC,71aaf5,28335c,070917,070917" />
 </a>
 </p>
 
@@ -40,7 +59,8 @@
   <samp>It was a pleasure to meet you, good luck on your journey 🧙‍♀️</samp>
 </p>
 <p align="center"> <!-- Gif author: https://tenor.com/en-GB/users/patternbase -->
-  <img src="https://github.com/skvoretss/skvoretss/blob/main/images/frog.gif" alt="frog">
+  <img src="https://github.com/skvoretss/skvoretss/blob/main/images/frog.gif#gh-dark-mode-only" alt="frog">
+  <img src="https://github.com/skvoretss/skvoretss/blob/main/images/flame.gif#gh-light-mode-only" alt="flame">
 </p>
 
 
