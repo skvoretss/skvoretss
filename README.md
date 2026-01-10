@@ -41,8 +41,8 @@
 <a href="https://github.com/skvoretss/convoychat#gh-dark-mode-only"> 
   <img height=200 align="center" src="https://github-readme-streak-stats-skvoretss-projects.vercel.app/?user=skvoretss&background=070917&border=28335c&stroke=71aaf5&ring=AFDAFC&fire=AFDAFC&currStreakLabel=AFDAFC&currStreakNum=71aaf5&sideNums=71aaf5&sideLabels=1E90FF&dates=5260ab" />
 </a>
-<a href="https://github.com/skvoretss/convoychat#gh-light-mode-only"> 
-  <img height=200 align="center" src="https://github-readme-streak-stats-skvoretss-projects.vercel.app/?user=skvoretss&background=AFDAFC&border=71aaf5&stroke=5260ab&ring=070917&fire=070917&currStreakLabel=070917&currStreakNum=28335c&sideNums=28335c&sideLabels=28335c&dates=5260ab" />
+<a href="https://github.com/skvoretss/convoychat#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-streak-stats-skvoretss-projects.vercel.app/?user=skvoretss&background=AFDAFC&border=71aaf5&stroke=5260ab&ring=28335c&fire=28335c&currStreakLabel=070917&currStreakNum=070917&sideNums=070917&sideLabels=28335c&dates=5260ab" />
 </a>
 
 <!-- Orig repo: https://github.com/JacobLinCool/LeetCode-Stats-Card-->
