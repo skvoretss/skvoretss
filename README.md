@@ -47,10 +47,10 @@
 
 <!-- Orig repo: https://github.com/JacobLinCool/LeetCode-Stats-Card-->
 <a href="https://leetcard.jacoblin.cool/skvoretss1#gh-dark-mode-only"> 
-  <img height=200 align="center" src="https://leetcard.jacoblin.cool/skvoretss1?colors=070917,28335c,71aaf5,AFDAFC,AFDAFC" />
+  <img height=200 align="center" src="https://leetcard.jacoblin.cool/skvoretss?colors=070917,28335c,71aaf5,AFDAFC,AFDAFC" />
 </a>
 <a href="https://leetcard.jacoblin.cool/skvoretss1#gh-light-mode-only"> 
-  <img height=200 align="center" src="https://leetcard.jacoblin.cool/skvoretss1?colors=AFDAFC,71aaf5,28335c,070917,070917" />
+  <img height=200 align="center" src="https://leetcard.jacoblin.cool/skvoretss?colors=AFDAFC,71aaf5,28335c,070917,070917" />
 </a>
 </p>
 
