@@ -12,7 +12,7 @@
 
 <h2 align="center">Links</h2> <!-- Orig repo: https://github.com/badges/shields-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/skvoretss">
+  <a href="https://www.linkedin.com/in/a-skvortsova">
     <img height=200 align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/skvoretss">
